@@ -2,7 +2,7 @@
 
 <p>I am a tech lover who is always in search of new things to learn. I am gratuated in International Business at Universidade do Vale do Rio dos Sinos (UNISINOS), and I  worked for 5 years in a logistics and transport company, called Kuehne+Nagel. Afterwards I openned my own cafe in Porto Alegre, coffee is also a great passion I have. I'm a curious person and currently studying frontend and backend languages to improve my skills and knowledge in the area.</p>
 <p>I'm looking forward to collaborating on a company that I identify with and be able to grow professionally in this area that I like so much.</p>
-
+<p>My pronous are: she/her</p>
 
  <div>
    <a href="https://github.com/julialimp">
