@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Welcome to my profile 😁
 
 <p>I am a tech lover who is always in search of new things to learn. I am gratuated in International Business at Universidade do Vale do Rio dos Sinos (UNISINOS), and I  worked for 5 years in a logistics and transport company, called Kuehne+Nagel. Afterwards I openned my own cafe in Porto Alegre, coffee is also a great passion I have. I'm a curious person and currently studying frontend and backend languages to improve my skills and knowledge in the area.</p>
 
