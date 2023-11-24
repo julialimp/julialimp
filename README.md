@@ -19,26 +19,30 @@
 #
 
 #### Currently studying
-[![Currently Studying](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![Currently Studying](https://skillicons.dev/icons?i=py)]
 
 ##
 
 #### knowledge (Front-end)
-[![knowledge Front End](https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,redux)](https://skillicons.dev)
+[![knowledge Front End](https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,redux)]
 
 ##
 
 #### knowledge (Back-end)
-[![knowledge Back End](https://skillicons.dev/icons?i=nodejs,express,js,ts,prisma,postgres)](https://skillicons.dev)
+[![knowledge Back End](https://skillicons.dev/icons?i=nodejs,express,js,ts,prisma,postgres)]
 
 ##
 
 #### knowledge (Tools)
-[![knowledge Tools](https://skillicons.dev/icons?i=figma,git,github,vscode)](https://skillicons.dev)
+[![knowledge Tools](https://skillicons.dev/icons?i=figma,git,github,vscode)]
 
 ##
  
-### Entre em contato:
-<a href="https://www.linkedin.com/in/julialimp/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:julia.limp@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
-<a href="https://instagram.com/julialimp" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"></a>
+<div>
+<h3>Entre em contato:</h3>
+<a href="https://www.linkedin.com/in/julialimp/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<br>
+<a href="mailto:julia.limp@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<br>
+<a href="https://instagram.com/julialimp" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+</div>
