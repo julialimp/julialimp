@@ -39,7 +39,6 @@
 ##
  
 ### Entre em contato:
-[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/julialimp/)
-<a href = "mailto:julia.limp@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/julialimp/)
-<a href="https://instagram.com/julialimp" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" target="_blank"></a>
+<a href="https://www.linkedin.com/in/julialimp/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:julia.limp@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
+<a href="https://instagram.com/julialimp" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"></a>
