@@ -12,22 +12,22 @@
 #
 
 #### Currently studying
-![Currently Studying](https://skillicons.dev/icons?i=py)
+![Currently Studying](https://skillicons.dev/icons?i=py&perline=4)
 
 ##
 
 #### knowledge (Front-end)
-![knowledge Front End](https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,redux)
+![knowledge Front End](https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,redux&perline=4)
 
 ##
 
 #### knowledge (Back-end)
-![knowledge Back End](https://skillicons.dev/icons?i=nodejs,express,js,ts,prisma,postgres)
+![knowledge Back End](https://skillicons.dev/icons?i=nodejs,express,js,ts,prisma,postgres&perline=4)
 
 ##
 
 #### knowledge (Tools)
-![knowledge Tools](https://skillicons.dev/icons?i=figma,git,github,vscode)
+![knowledge Tools](https://skillicons.dev/icons?i=figma,git,github,vscode&perline=4)
 
 ##
  
@@ -35,7 +35,7 @@
 <h3>Entre em contato:</h3>
 <a href="https://www.linkedin.com/in/julialimp/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"/></a>
 <br>
-<a href="mailto:julia.limp@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+<a href="mailto:julia.limp@hotmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" target="_blank"/></a>
 <br>
 <a href="https://instagram.com/julialimp" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" target="_blank"/></a>
 </div>
